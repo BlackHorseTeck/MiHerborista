@@ -1,0 +1,6 @@
+{
+  "name": "MiHerborista",
+  "description": "Boutique en ligne officielle MiHerborista - Cosmétique naturelle, huiles essentielles BIO, sérums concentrés et DIY cosmétique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
